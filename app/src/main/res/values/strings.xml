@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wayfare</string>
+    <string name="access_token">pk.eyJ1IjoicmhhcHBpZSIsImEiOiJjazduMTJ3ejYwbnpvM2VvMHhnemoybDF6In0.6PE01b5-ekLCl1YdDg9PaQ</string>
+    <string name="start_navigating">Start Navigating</string>
+    <string name="title_activity_safety_tips">SafetyTips</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
